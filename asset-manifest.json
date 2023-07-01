@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Toss/static/css/main.768d186c.css",
+    "main.js": "/Toss/static/js/main.00c81d44.js",
+    "index.html": "/Toss/index.html",
+    "main.768d186c.css.map": "/Toss/static/css/main.768d186c.css.map",
+    "main.00c81d44.js.map": "/Toss/static/js/main.00c81d44.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.768d186c.css",
+    "static/js/main.00c81d44.js"
+  ]
+}
